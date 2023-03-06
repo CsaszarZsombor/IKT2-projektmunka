@@ -1,0 +1,28 @@
+body{
+    
+    background-color: cornsilk;
+    
+}
+
+ul, li{
+    font-family:monospace;
+    
+}
+
+h4{
+    font-weight: 900;
+    
+}
+#a1{
+    font-style: italic;
+    font-size: 107%;
+    font-weight: 450
+}
+
+
+table, th, td {
+  border:2px solid black;
+}
+th, td {
+    border-style: dotted;
+}
